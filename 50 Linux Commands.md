@@ -1,4 +1,4 @@
-# *50 Useful Linux Commands*
+# *50 Commonly Used Linux Commands*
 1. `ls` - List files and directories.
 2. `cd` - Change directory.
 3. `pwd` - Print the current working directory.
