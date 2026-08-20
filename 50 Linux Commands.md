@@ -16,7 +16,7 @@
 15. `clear` - Clear the terminal screen.
 16. `history` - Display previously executed commands.
 17. `man` - Display the manual for a command.
-18. whoami` - Display the current username.
+18. `whoami` - Display the current username.
 19. `who` - Display users currently logged in.
 20. `date` - Display the current date and time.
 21. `cal` - Display a calendar.
