@@ -110,4 +110,4 @@
 99. `xxd` - Create hexadecimal dumps or convert hexadecimal data.
 100. `sha256sum` - Calculate or verify SHA-256 file checksums.
 
-*These commands should only be used on systems you own or have explicit permission to test. Always use Kali Linux and its tools responsibly and ethically, and follow all applicable laws and security guidelines.*
+***These commands should only be used on systems you own or have explicit permission to test. Always use Kali Linux and its tools responsibly and ethically, and follow all applicable laws and security guidelines.***
