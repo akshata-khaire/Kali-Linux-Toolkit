@@ -4,8 +4,8 @@ A structured command-line reference covering Kali Linux tools and commonly used 
 
 ## About
 Kali-Linux-Toolkit is a collection of Linux and Kali Linux commands organized into separate files for easy reference and learning.
-- 100 Kali Linux Commands: Contains 100 Kali Linux Commands and tools organized by category, with concise descriptions explaining their purpose and use.
-- 50 Linux Commands: Contains 50 commonly used Linux commands covering essential command-line tasks, with simple descriptions for each command.
+- **100 Kali Linux Commands:** Contains 100 Kali Linux Commands and tools organized by category, with concise descriptions explaining their purpose and use.
+- **50 Linux Commands:** Contains 50 commonly used Linux commands covering essential command-line tasks, with simple descriptions for each command.
 
 ## Contents
 - [100 Kali Linux Commands for Offensive Security](100%20Kali%20Linux%20Commands%20for%20Offensive%20Security.md)
